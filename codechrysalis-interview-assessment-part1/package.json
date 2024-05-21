@@ -1,0 +1,14 @@
+{
+  "name": "codechrysalis-interview-assessment-part-1",
+  "description": "Code Chrysalis Interview Assessment Part 1",
+  "author": "Code Chrysalis",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.4.1",
+    "mocha": "^9.2.2"
+  }
+}
